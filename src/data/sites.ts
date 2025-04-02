@@ -26,5 +26,12 @@ export const sites = [
         description: "Une application pour suivre ses dépenses.",
         url: "https://money-check-teal.vercel.app/",
         image: "/images/moneytrack.png"
+    },
+    {
+        id: 5,
+        name: "Timer App",
+        description: "Une application pour suivre le temps.",
+        url: "https://timer-five-sable.vercel.app/",
+        image: "/images/timer.png"
     }
 ]
