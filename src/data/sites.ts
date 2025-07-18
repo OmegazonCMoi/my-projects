@@ -33,5 +33,12 @@ export const sites = [
         description: "Une application pour suivre le temps.",
         url: "https://timer-five-sable.vercel.app/",
         image: "/images/timer.png"
+    },
+    {
+        id: 6,
+        name: "Notepad Markdown",
+        description: "Une application pour écrire des notes en Markdown.",
+        url: "https://notepad-azure.vercel.app/",
+        image: "/images/notepad.png"
     }
 ]
