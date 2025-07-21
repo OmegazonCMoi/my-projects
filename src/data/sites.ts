@@ -40,5 +40,12 @@ export const sites = [
         description: "Une application pour écrire des notes en Markdown.",
         url: "https://notepad-azure.vercel.app/",
         image: "/images/notepad.png"
+    },
+    {
+        id: 7,
+        name: "Tags Input",
+        description: "Une application pour lister des tags.",
+        url: "https://tags-input-256n.vercel.app/",
+        image: "/images/tagsinput.png"
     }
 ]
