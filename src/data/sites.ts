@@ -47,5 +47,19 @@ export const sites = [
         description: "Une application pour lister des tags.",
         url: "https://tags-input-256n.vercel.app/",
         image: "/images/tagsinput.png"
+    },
+    {
+        id: 8,
+        name: "Click Test",
+        description: "Une application pour tester le nombre de clics.",
+        url: "https://clicktest-ten.vercel.app/",
+        image: "/images/clicktest.png"
+    },
+    {
+        id: 9,
+        name: "Tic Tac Toe",
+        description: "Une application pour jouer au morpion.",
+        url: "https://tictactoe-phi-tan.vercel.app/",
+        image: "/images/tictactoe.png"
     }
 ]
